@@ -1,0 +1,15 @@
+Package: geopeasy
+Type: Package
+Title: Farts and Cheese
+Description: Farts and cheese. Other stuff.
+Version: 0.0.1.9000
+Authors@R: person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com")
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports:
+    rnaturalearth,
+    leaflet,
+    sp,
+    geojsonio
+RoxygenNote: 5.0.1
